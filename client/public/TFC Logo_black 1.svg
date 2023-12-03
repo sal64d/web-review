@@ -1,0 +1,25 @@
+<svg width="131" height="50" viewBox="0 0 131 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="TFC Logo_black 1" clip-path="url(#clip0_104_242)">
+<g id="Layer 1">
+<g id="Group">
+<path id="Vector" d="M78.84 9.63599H45.1431V20.1433H78.84V9.63599Z" fill="url(#paint0_linear_104_242)"/>
+<path id="Vector_2" d="M14.1313 49.1287V9.85546H0V0.797119H38.5504V9.85546H24.4934V49.132H14.1313V49.1287Z" fill="black"/>
+<path id="Vector_3" d="M84.2036 25C84.2036 10.1459 95.4338 0 109.565 0C120.579 0 126.739 5.79579 130.144 11.811L121.305 16.1579C119.275 12.2434 114.928 9.12934 109.565 9.12934C101.159 9.12934 94.7819 15.8674 94.7819 25C94.7819 34.1326 101.159 40.8707 109.565 40.8707C114.928 40.8707 119.275 37.8275 121.305 33.8421L130.144 38.118C126.665 44.1332 120.579 50.0032 109.565 50.0032C95.4338 50.0032 84.2036 39.8574 84.2036 25.0032V25Z" fill="black"/>
+<g id="Group_2">
+<path id="Vector_4" d="M45.1431 0.797119V9.63602H55.4341H79.3466V0.797119H45.1431Z" fill="black"/>
+<path id="Vector_5" d="M45.1431 20.1433V49.1287H55.4341V28.9854H78.84V20.1433H55.4341H45.1431Z" fill="black"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_104_242" x1="44.3146" y1="13.9893" x2="77.947" y2="13.9893" gradientUnits="userSpaceOnUse">
+<stop stop-color="#DEB624"/>
+<stop offset="0.5" stop-color="#FACD0C" stop-opacity="0.6"/>
+<stop offset="1" stop-color="#F9DA09" stop-opacity="0"/>
+</linearGradient>
+<clipPath id="clip0_104_242">
+<rect width="130.144" height="50" fill="white"/>
+</clipPath>
+</defs>
+</svg>
